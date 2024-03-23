@@ -45,7 +45,6 @@ SmartBot is a chatbot that can generat answer questions using text and image inp
         "query": <Your query>
       }
       ```
-  - /youtube-search
 
 
 ## Contact
