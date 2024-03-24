@@ -24,11 +24,12 @@ SmartBot is a chatbot that can generat answer questions using text and image inp
 
 - Create a .env file in the root directory and add the following variables :
 
+```
+  OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
+```
+
 - Create a /images directory in the root directory to store images.
 
-  ```
-  OPENAI_API_KEY=<YOUR_OPENAI_API_KEY>
-  ```
 - Run the app using :
 
   ```python app.py```
